@@ -1,0 +1,12 @@
+﻿body {
+}
+#formDatos {
+    width: 300px;
+    height: 200px;
+    border: orange double 1px;
+}
+#disposicion{
+    width: 500px;
+    height: 300px;
+    border: orange double 1px;
+}
