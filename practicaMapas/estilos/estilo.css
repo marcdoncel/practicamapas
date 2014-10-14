@@ -1,12 +1,13 @@
 ﻿body {
 }
-#formDatos {
+.clase {
     width: 300px;
     height: 200px;
-    border: orange double 1px;
+    border: red double 3px;
 }
-#disposicion{
-    width: 500px;
-    height: 300px;
-    border: orange double 1px;
+canvas {
+    width: 300px;
+    height: 200px;
+    border: blue double 3px;
+    
 }
